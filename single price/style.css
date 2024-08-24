@@ -1,0 +1,56 @@
+body{
+   background-color: rgb(173, 188, 211);
+   background-size: 3px;
+    display: grid;
+    max-width: auto;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    padding: 60px;
+    justify-self: center;
+}
+.one{
+    background-color: white;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    text-align-last: center;
+    min-height: max-content;
+    text-align: left;
+}
+.two{
+    display: flexbox;
+    background-color: rgba(4, 163, 163, 0.753);
+    justify-content: center;
+    align-items: center;
+    color: rgb(214, 206, 193);
+    text-align: start;
+
+}
+.three{
+    text-align: start;
+    background-color: rgba(36, 202, 202, 0.692);
+    justify-content: center;
+    align-items: center;
+    color: white;
+    justify-items: center;
+    font-size: small;
+}
+
+#sign{
+    background-color: rgb(127, 255, 0);
+    height: 28px;
+    width: 190px;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+    font-size: medium;
+}
+
+.one p{
+    font-size: small;
+}
+
